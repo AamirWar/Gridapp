@@ -13,7 +13,7 @@ body{
 
     div:last-child{
         display: flex;
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         gap: 25px;
         text-align: center;
         justify-content: space-evenly;
