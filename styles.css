@@ -67,6 +67,7 @@ body{
         border-color: black;
         border-radius: 10px;
         background: gray;
+        transition: all 1200ms;
 
         &:hover{
         transform: scale(1.05);
